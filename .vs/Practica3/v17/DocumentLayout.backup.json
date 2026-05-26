@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|c:\\users\\echo\\desktop\\uni\\sd\\practica3\\practica3\\app_code\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|solutionrelative:practica3\\app_code\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|c:\\users\\echo\\desktop\\uni\\sd\\practica3\\practica3\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|solutionrelative:practica3\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\practica3\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|solutionrelative:practica3\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\practica3\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|solutionrelative:practica3\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\practica3\\app_code\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA40DCD-5018-E164-233C-83C3B6D09794}|C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3|solutionrelative:practica3\\app_code\\comun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.svc",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\Service.svc",
+              "RelativeDocumentMoniker": "Practica3\\Service.svc",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\Service.svc",
+              "RelativeToolTip": "Practica3\\Service.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2026-05-20T14:31:55.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica3\\App_Code\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Cliente.cs",
+              "RelativeToolTip": "Practica3\\App_Code\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:50:58.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comun.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Comun.cs",
+              "RelativeDocumentMoniker": "Practica3\\App_Code\\Comun.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Comun.cs",
+              "RelativeToolTip": "Practica3\\App_Code\\Comun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:47:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\IService.cs",
+              "RelativeDocumentMoniker": "Practica3\\App_Code\\IService.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\IService.cs",
+              "RelativeToolTip": "Practica3\\App_Code\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:46:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Service.cs",
+              "RelativeDocumentMoniker": "Practica3\\App_Code\\Service.cs",
+              "ToolTip": "C:\\Users\\Echo\\Desktop\\uni\\Sd\\Practica3\\Practica3\\App_Code\\Service.cs",
+              "RelativeToolTip": "Practica3\\App_Code\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:27:56.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
